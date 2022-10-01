@@ -41,7 +41,7 @@ other = "Latest post"
 other = "{{ .ReadingTime }} min read"
 
 [home]
-other = ""
+other = "Home"
 
 [about]
 other = "About"
